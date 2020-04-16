@@ -1,6 +1,5 @@
 package demo.expresso.infosystestkotlin.viewmodel
 
-import android.app.Activity
 import android.app.Application
 import android.content.Context
 import android.util.Log
